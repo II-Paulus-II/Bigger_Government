@@ -1,0 +1,13 @@
+﻿
+price_oaths_of_allegiance_button = {
+	political_influence = 25
+}
+
+price_patron_of_arts_button = {
+	political_influence = 25
+}
+
+price_assemble_raiding_party_button = {
+	political_influence = 25
+}
+

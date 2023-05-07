@@ -1,0 +1,16 @@
+template bg_window_type
+{
+	
+	background = {
+		block "Background_tint"
+		{
+			texture = "gfx/interface/base_parts/background_texture_x60bd.dds"
+			size = { 100% 100% }
+			spriteType = Corneredtiled
+			spriteborder = { 0 0 }
+			margin = { -6 -6 }
+			shaderfile = "gfx/FX/pdxgui_default.shader"
+		}
+	}
+}
+

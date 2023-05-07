@@ -1,0 +1,37 @@
+﻿#example = {
+#	positive = "gfx/interface/icons/example_positive.dds" # Will be used if >= 0 or if `negative` isn't set
+#	negative = "gfx/interface/icons/example_negative.dds" # Will be used if < 0 (optional)
+#	default = yes # The first one in the file with this flag will be used as default
+#}
+
+monthly_office_prime_minister_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_prime_minister_loyalty.dds"
+}
+
+monthly_office_quartermaster_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_quartermaster_loyalty.dds"
+}
+
+monthly_office_grandadmiral_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_grandadmiral_loyalty.dds"
+}
+
+monthly_office_sacrificer_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_sacrificer_loyalty.dds"
+}
+
+monthly_office_proconsul_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_proconsul_loyalty.dds"
+}
+
+monthly_office_steward_republic_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_steward_republic_loyalty.dds"
+}
+
+monthly_office_grandadmiral_republic_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_grandadmiral_republic_loyalty.dds"
+}
+
+monthly_office_lector_loyalty = {
+	positive = "gfx/interface/icons/modifiers/monthly_office_lector_loyalty.dds"
+}

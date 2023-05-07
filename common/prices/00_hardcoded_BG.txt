@@ -1,0 +1,7 @@
+﻿
+
+enact_law = {
+	political_influence = 25
+	gold_per_pop = 0.1
+}
+

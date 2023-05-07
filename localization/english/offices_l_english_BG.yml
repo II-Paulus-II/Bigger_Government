@@ -1,0 +1,80 @@
+﻿l_english:
+ #New offices and government positions
+ ######Monarchy
+ #Offices
+ office_prime_minister:0 "First Minister"
+ office_quartermaster:0 "Master of Supplies"
+ office_grandadmiral:0 "Grand Admiral"
+ office_sacrificer:0 "Celebrant"
+ 
+ ######Republic
+ 
+ #Offices
+ office_proconsul:0 "Proconsul"
+ office_steward_republic:0 "Steward"
+ office_grandadmiral_republic:0 "High Admiral"
+ office_lector:0 "Lector"
+ 
+ ######Latin Monarchy
+ #Offices
+ office_prime_minister_latin:0 "First Minister"
+ office_quartermaster_latin:0 "Master of Supplies"
+ office_grandadmiral_latin:0 "Grand Admiral"
+ office_sacrificer_latin:0 "Celebrant"
+ ######Latin Republic
+ #Latin Offices
+ office_proconsul_latin:0 "Proconsul"
+ office_steward_republic_latin:0 "Steward"
+ office_grandadmiral_republic_latin:0 "High Admiral"
+ office_lector_latin:0 "Lector"
+ ######Indian/Aryan/Tibetan Monarchy
+ #Indian Offices
+
+ #####Indian Republic
+ #Indian ruler
+
+ #Indian Offices
+
+ ###Persia
+ #Persia Monarchy Offices
+
+ ###Persia Republic
+
+ ###Hellenic Monarchy
+ #Hellenic Monarchy Offices
+ office_prime_minister_hellenic:0 "Aesymnetes"
+ office_quartermaster_hellenic:0 "Taxiarchos"
+ office_grandadmiral_hellenic:0 "Navarchos"
+ office_sacrificer_hellenic:0 "Hierophylake"
+ #Hellenic Republic Offices
+ office_proconsul_hellenic:0 "Aesymnetes"
+ office_steward_republic_hellenic:0 "Taxiarchos"
+ office_grandadmiral_republic_hellenic:0 "Navarchos"
+ office_lector_hellenic:0 "Philosophos"
+
+ #####West Levantine
+ #West Levantine Monarchy
+
+ #West Levantine Monarchy Offices
+
+ #West Levantine Republic ruler
+
+ #West Levantine Republic Offices
+
+ #####North Africa/Egypt
+ #Egypt Monarchy
+ #Egypt Monarchy ruler
+
+ #Egypt Monarchy Offices
+
+ #DESCS
+ ##Monarchy Offices 
+ office_prime_minister_desc:0 "This office is the monarch's first minister responsible to the king for the management of the whole government."
+ office_quartermaster_desc:0 "This office is the military officer responsible for managing the logistics of the army and navy."
+ office_grandadmiral_desc:0 "This office is the Grand Admiral who oversees the overall quality of the navy."
+ office_sacrificer_desc:0 "This is the monarchs priest who is responsible for carrying out the sacrifices to the gods and interpreting the god's will."
+ 
+ office_proconsul_desc:0 "This office chiefly concerns itself with managing the administeration of the government responsible only to the ruler."
+ office_steward_republic_desc:0 "This office is the republics treasurer who seeks to make sure that money is spent well rather than wastefully."
+ office_grandadmiral_republic_desc:0 "This office belongs to the most senior admiral in the country."
+ office_lector_desc:0 "This office supervises the collection of knowledge and seeks to make the country more civilized."

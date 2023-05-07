@@ -1,0 +1,220 @@
+﻿office_proconsul = {
+
+	type = republic
+	skill = charisma
+
+	skill_modifier = {
+		global_citizen_happyness = 0.005
+		stability_monthly_change = 0.03
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.025
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.5
+		monthly_character_experience = 1.5
+		prominence = 25
+	}
+}
+
+office_tribune_of_the_soldiers = {
+
+	type = republic
+	skill = martial
+	
+	skill_modifier = {
+		discipline = 0.01
+		land_morale_modifier = 0.01
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.4
+		monthly_character_experience = 1.2
+		prominence = 20
+	}
+}
+
+office_steward_republic = {
+
+	type = republic
+	skill = finesse
+
+	skill_modifier = {
+		navy_maintenance_cost = -0.01
+		army_maintenance_cost = -0.01
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.4
+		monthly_character_experience = 1.2
+		prominence = 20
+	}
+	
+}
+
+office_augur = {
+
+	type = republic
+	skill = zeal
+
+	skill_modifier = {
+		omen_power = 0.02
+		global_pop_conversion_speed_modifier = 0.02
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.4
+		monthly_character_experience = 1.2
+		prominence = 20
+	}
+}
+
+office_censor = {
+
+	type = republic
+	skill = charisma
+
+	skill_modifier = {
+		ruler_popularity_gain = 0.02
+		monthly_party_approval = 0.02 
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.3
+		monthly_character_experience = 1
+		prominence = 15
+	}
+}
+
+office_tribune_of_the_treasury = {
+
+	type = republic
+	skill = martial
+
+	skill_modifier = {
+		global_tax_modifier = 0.01
+		monthly_wage_modifier = -0.01
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.3
+		monthly_character_experience = 1
+		prominence = 15
+	}
+}
+
+office_plebeian_aedile = {
+
+	type = republic
+	skill = finesse
+
+	skill_modifier = {
+		global_freemen_happyness = 0.005
+		monthly_corruption = -0.01
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.3
+		monthly_character_experience = 1
+		prominence = 15
+	}
+}
+
+office_pontifex = {
+
+	type = republic
+	skill = zeal
+
+	skill_modifier = {
+		stability_cost_modifier = -0.02
+		happiness_for_same_religion_modifier = 0.02
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.3
+		monthly_character_experience = 1
+		prominence = 15
+	}
+	
+}
+
+office_praetor = {
+
+	type = republic
+	skill = charisma
+
+	skill_modifier = {
+		agressive_expansion_monthly_change = -0.02
+		improve_relation_impact = 0.02
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.2
+		monthly_character_experience = 1
+		prominence = 15
+	}
+}
+
+office_grandadmiral_republic = {
+
+	type = republic
+	skill = martial
+	
+	skill_modifier = {
+		naval_damage_taken = -0.01
+		naval_damage_done = 0.01
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.2
+		monthly_character_experience = 1
+		prominence = 15
+	}
+}
+
+office_republic_physician = {
+	
+	type = republic
+	skill = finesse
+	
+	skill_modifier = {
+		health = 0.005
+		global_population_growth = 0.01
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.2
+		monthly_character_experience = 1
+		prominence = 15
+	}
+}
+
+office_lector = {
+
+	type = republic
+	skill = zeal
+
+	skill_modifier = {
+		research_points_modifier = 0.01
+		global_monthly_civilization = 0.01
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.015
+		monthly_character_prominence = 0.05
+		monthly_character_fam_prestige = 0.2
+		monthly_character_experience = 1
+		prominence = 15
+	}
+	
+}
+
+
