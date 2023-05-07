@@ -1,0 +1,55 @@
+This mod expands the Laws & Offices available to civilised nations i.e. monarchies and republics. Tribal government is untouched. The changes in this mod will make some aspects of ruling easier for these government types and as tech-level and statesmanship increases, countries will be more internally stable. These effects will apply to the AI too, so that your enemies will provide a harder challenge. 
+
+[h1][b]Update for Patch 2.0.3[/b][/h1]
+
+This took some time, mainly due to the fact I have other mods to update as well, but also due to the fact that there was a completely new GUI.
+
+There is only one loss from the previous addition of the mod that people will notice, and this is the recruit advisors interaction. I would like to make this a better interaction and I also have to find a nice place to put the interaction on the GUI. Further the default "curiate assembly" and "war council" settings for republics have been restored. Again I have something in mind to make this better so I restored the vanilla functionality for now. 
+
+Further, all default laws are as they are in vanilla because changing all the flavour events around these laws is too much work so Rome now has the full set of vanilla laws - while sharing 4 more extra groups of laws with all republics. Monarchy laws have additions too, so enjoy looking around the changes.
+
+If anyone discovers any bugs please post them in the discussion.
+
+Please enjoy the updated version of this mod. 
+
+-------------------------------------------------------
+
+[h1]Main Changes[/h1]
+
+[b]Offices[/b]
+
+Republics and monarchies both get 4 new offices. Each office now has two effects rather than one. Statemanship is buffed in such a way that 7/8 years in an office will make an office holder fully competent rather than taking double that time to reach 3/4 competence. The competence of an office holder is determined by the stat in question anyway. Generals and Governors now gain statesmanship as well because IMO learning how to run an Legion is not going to leave you totally incompetent if you get promoted to head of the army. As you now have extra offices, you will also have extra PI from them. This may mean more provincial investments :)
+
+[b]Laws[/b]
+
+There are a whole bunch of new laws and some have been taken away, and almost all of them have been changed. I like the idea of Laws making your country stronger and while there will be some choices, I really hate the idea of one law upsetting all your generals and the other doing the same to governors. Laws cost money and PI now. 
+
+[b]Character Interactions and Families[/b]
+
+The war council and curiate assembly buttons are available all the time to republics. You now no longer need to pass laws to get access to these. Monarchies now get to recruit advisers for their ruler which will increase their stats. If you keep your king a long time, maybe he will be a really great leader. 
+
+Family numbers have been increased in monarchies and republics because more characters are needed for offices. I also have increased fertility because people do run out of women to marry later in the game so the number of children per couple has been increased as well. Outside of bad luck, this will lead to almost no chance of running out of characters or people to marry late in the game. 
+
+[b]Other Changes[/b]
+
+Some events and decisions got changed because the laws changed, so they had to be changed otherwise they wouldn't work. Their effects are unchanged however. I also nerfed mercenaries because I am just irritated by those guys.
+
+[b]Some Notes on Compatibility[/b]
+
+You have to load this mod after any mod that touches the UI. This is because I have completely changed the government UI to accommodate more offices and laws. This mod will also be incompatible with any mod that touches laws, offices or families. 
+
+[h1]Thanks to....[/h1]
+
+Imperator Modding Discord guys in general but some people deserve mention for answering specific questions, solving a problem, helping with making the UI look better or other contributions. 
+
+Agamidae 
+Dragonpants 
+Robska
+Svanley
+
+[h1][b]Contacting Me[/b][/h1]
+
+I can be found on the imperator modding discord or the molon labe multiplayer discord as "II Paulus II"
+
+Molon Labe MP discord link ----- https://discord.gg/QvBXKhp3jA
+Imperator Modding discord link ---- https://discord.gg/dFVQHAPHFy
